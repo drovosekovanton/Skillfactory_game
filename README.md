@@ -13,6 +13,7 @@
 
 #### Файлы репозитория:
 [Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для [Google Colab](https://colab.research.google.com/ "Google Colab")
+[Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла"))
 
 #### Актуальный набор данных для работы
 В процессе работы датасет дополнялся и изменялся, актуальная копия датасета лежит на Google Drive:
@@ -23,4 +24,5 @@
 - файлы из папки halfhourly_dataset были преобразованы к часовым отсчётам (суммированием потреблённой энергии по каждому счётчику), и положены в папку hourly_dataset. Названия файлов сохранены без изменения
 - добавлен файл hourly_energy_use.csv с суммарным почасовым потреблением электроэнергии всеми домохозяйствами
 - добавлены файлы std_hour_energy.csv и tou_hour_energy.csv с почасовыми средними значениями потребления электроэнергии всех домохозяйств с соответствующим типом учёта потребления (стандарт или повременной)
+
 Все обновлённые данные (кроме uk_bank_holidays) можно получить, раскомментировав и запустив соответствующий код из ноутбука
