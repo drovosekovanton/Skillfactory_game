@@ -13,6 +13,7 @@
 
 #### Файлы репозитория:
 [Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для [Google Colab](https://colab.research.google.com/ "Google Colab")
+
 [Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла"))
 
 #### Актуальный набор данных для работы
