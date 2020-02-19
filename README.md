@@ -4,6 +4,8 @@
 
 Задание представляет собой вариант проведения аналитических работ по конкретному датасету.
 
+Получившийся ноутбук самодокументирован, текст исследования и соответствующий код расположены вместе.
+
 #### Исходные файлы:
 Предоставлен датасет с kaggle.com:
 [Smart meters in London](https://www.kaggle.com/jeanmidev/smart-meters-in-london "Smart meters in London")
@@ -15,6 +17,8 @@
 [Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для [Google Colab](https://colab.research.google.com/ "Google Colab")
 
 [Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла"))
+
+[Skillfactory_report.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.pdf "Skillfactory_report.pdf") - печатная версия ноутбука
 
 #### Актуальный набор данных для работы
 В процессе работы датасет дополнялся и изменялся, актуальная копия датасета лежит на Google Drive:
