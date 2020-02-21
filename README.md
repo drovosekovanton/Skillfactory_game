@@ -18,7 +18,7 @@
 
 [Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла"))
 
-Skillfactory_report - печатная версия ноутбука ([pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.pdf "pdf")|[html](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.html "html"))
+Skillfactory_report - печатная версия ноутбука ([html](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.html "html")|[pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.pdf "pdf")) (отчёт необходимо открывать локально, превью на github работает некорректно)
 
 #### Актуальный набор данных для работы
 В процессе работы датасет дополнялся и изменялся, актуальная копия датасета лежит на Google Drive:
