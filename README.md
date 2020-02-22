@@ -14,7 +14,7 @@
 Выбрать из предложенного для работы датасета те файлы, которые планируется анализировать, извлечь из них нужную информацию и предоставить её в виде отчёта о факторах, влияющих на уровень потребления электрической энергии.
 
 #### Файлы репозитория:
-[Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для запуска в [Google Colab](https://colab.research.google.com/ "Google Colab"). С минимальными изменениями кода раздела "Импорт используемых библиотек" он также может работать и как локальный Jupyter notebook. Является предпочтительным способом просмотра задания.
+[Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для запуска в [Google Colab](https://colab.research.google.com/ "Google Colab"). С минимальными изменениями кода раздела "Импорт используемых библиотек" он также может работать и как локальный Jupyter notebook. Является предпочтительным способом просмотра результатов выполнения задания.
 
 [Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла")).
 
