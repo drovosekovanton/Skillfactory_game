@@ -16,12 +16,12 @@
 #### Файлы репозитория:
 [Skillfactory_game.ipynb](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_game.ipynb "Skillfactory_game.ipynb") - ноутбук для запуска в [Google Colab](https://colab.research.google.com/ "Google Colab"). С минимальными изменениями кода раздела "Импорт используемых библиотек" он также может работать и как локальный Jupyter notebook. Является предпочтительным способом просмотра результатов выполнения задания.
 
-[Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета ([оригинал файла](https://drive.google.com/file/d/1YRiAUd_m_7IG9lklkeAsdHPuWDpw_B6P/view "оригинал файла")).
+[Relations diagram.pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Relations%20diagram.pdf "Relations diagram.pdf") - схема взаимосвязей отдельных файлов датасета.
 
 Skillfactory_report - печатная версия ноутбука ([pdf](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.pdf "pdf")|[html](https://github.com/drovosekovanton/Skillfactory_game/blob/master/Skillfactory_report.html "html")).
 
 #### Актуальный набор данных для работы
-В процессе работы датасет дополнялся и изменялся, [актуальная копия](https://drive.google.com/drive/folders/1oVN31sW5rC_RDhA4w3azI0LwELBO3mx5?usp=sharing "актуальная копия") датасета лежит на Google Drive.
+В процессе работы датасет дополнялся и изменялся.
 
 Произведённые изменения:
 - файлы в папках halfhourly_dataset и daily_dataset.csv были запакованы в zip-архивы для уменьшения места на диске и увеличения скорости работы с ними;
@@ -34,3 +34,5 @@ Skillfactory_report - печатная версия ноутбука ([pdf](http
 - добавлены файлы std_hour_energy.csv и tou_hour_energy.csv с почасовыми средними значениями потребления электроэнергии всех домохозяйств с соответствующим типом учёта потребления (стандарт или повременной).
 
 Созданные файлы с данными можно получить, раскомментировав и запустив соответствующий код из ноутбука.
+
+Репозиторий архивирован 25.11.2024, убраны ссылки на Google Drive.
